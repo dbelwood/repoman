@@ -1,2 +1,2 @@
-= Repoman
-== Create base repositories for salesforce.com projects
+# Repoman
+## Create base repositories for salesforce.com projects
